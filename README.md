@@ -26,11 +26,11 @@ https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sh
 ## ChromHMM: картинки из выдачи
 | Название | Картинка | 
 | :---: | :---: | 
-|transitions_10|![transitions_10](https://user-images.githubusercontent.com/93208971/160470102-b2c33439-1507-4813-91ab-d9590714a423.png)|
-|emissions_10|![emissions_10](https://user-images.githubusercontent.com/93208971/160470119-bac94ed8-204c-4363-9e29-ac4b367e29d3.png)|
-|Hmec_10_overlap|![Hmec_10_overlap](https://user-images.githubusercontent.com/93208971/160470082-9d07f188-c9b9-46c8-ba7f-2b9b75e2a374.png)|
-|Hmec_10_RefSeqTES_neighborhood|![Hmec_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/93208971/160470088-d3890e2a-9ea0-40d5-b38a-ad65e8557f53.png)|
-|Hmec_10_RefSeqTSS_neighborhood|![Hmec_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/93208971/160470092-96416281-67a4-4273-9f11-733b30df383b.png)|
+|transitions_10| ![transitions_10](https://user-images.githubusercontent.com/93208971/160502012-51d0b0f5-43f1-410b-980e-9370fcea15e4.png)|
+|emissions_10| ![emissions_10](https://user-images.githubusercontent.com/93208971/160501973-30db0046-58d5-4351-b8bd-4f348a6c37e9.png)|
+|Hmec_10_overlap|![Hmec_10_overlap](https://user-images.githubusercontent.com/93208971/160501992-73f7044a-4944-420f-82c6-fa9be9dd7433.png)|
+|Hmec_10_RefSeqTES_neighborhood|![Hmec_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/93208971/160502061-2e98d87c-93ad-4d94-be67-ce988ec855e8.png)|
+|Hmec_10_RefSeqTSS_neighborhood|![Hmec_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/93208971/160502092-4b089692-19db-4672-b15e-b57ed596107f.png)|
 
 
 ## Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
