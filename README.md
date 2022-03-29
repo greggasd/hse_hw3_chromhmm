@@ -2,6 +2,7 @@
 
 ### Ссылка на Colab (основная и бонусная часть): 
 https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sharing
+
 ### Клеточная линия - HMEC
 
 ![Снимок экрана 2022-03-28 в 20 22 21](https://user-images.githubusercontent.com/93208971/160468579-194e0c8c-e742-49fa-88be-1d5cab492cf0.png)
@@ -65,5 +66,3 @@ https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sh
 ![image](https://user-images.githubusercontent.com/93208971/160693364-dbc54635-4eb0-411f-81ad-fc7eb71a7d06.png)
 ![image](https://user-images.githubusercontent.com/93208971/160693458-c71d9b2e-34bf-4bd9-8684-9ed82a7ba591.png)
 
-
- | :---: | :---: | :---: | 
