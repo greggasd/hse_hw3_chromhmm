@@ -31,6 +31,15 @@ https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sh
 |Hmec_10_overlap|![Hmec_10_overlap](https://user-images.githubusercontent.com/93208971/160501992-73f7044a-4944-420f-82c6-fa9be9dd7433.png)|
 |Hmec_10_RefSeqTES_neighborhood|![Hmec_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/93208971/160502061-2e98d87c-93ad-4d94-be67-ce988ec855e8.png)|
 |Hmec_10_RefSeqTSS_neighborhood|![Hmec_10_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/93208971/160502092-4b089692-19db-4672-b15e-b57ed596107f.png)|
+## UCSC GenomeBrowser
+### Настройки:
+![Снимок экрана 2022-03-29 в 19 45 02](https://user-images.githubusercontent.com/93208971/160663494-8a68a805-d2a3-4e1b-a895-abcd1185ec7f.png)
+### Результаты(на примере state 5,7,8):
+ | State	 | Картинка genome.ucsc  |
+ | :---: | :---: | 
+| 5 |![image](https://user-images.githubusercontent.com/93208971/160666253-5a569486-5120-4e84-8ce9-01cba29da0aa.png)|
+| 7 |![image](https://user-images.githubusercontent.com/93208971/160665769-c0f64c64-9a01-4312-82cc-a5faa17bb5c5.png)| 
+| 9 |![image](https://user-images.githubusercontent.com/93208971/160665167-38154442-6fb7-4cea-9185-fe1d21125b3d.png)|
 
 
 ## Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
