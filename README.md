@@ -3,7 +3,7 @@
 ### Ссылка на Colab (основная и бонусная часть): 
 https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sharing
 
-### Клеточная линия - HMEC
+### Клеточная линия -  HMEC
 
 ![Снимок экрана 2022-03-28 в 20 22 21](https://user-images.githubusercontent.com/93208971/160468579-194e0c8c-e742-49fa-88be-1d5cab492cf0.png)
 
@@ -41,7 +41,6 @@ https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sh
 | 5 |![image](https://user-images.githubusercontent.com/93208971/160666253-5a569486-5120-4e84-8ce9-01cba29da0aa.png)|
 | 7 |![image](https://user-images.githubusercontent.com/93208971/160665769-c0f64c64-9a01-4312-82cc-a5faa17bb5c5.png)| 
 | 9 |![image](https://user-images.githubusercontent.com/93208971/160665167-38154442-6fb7-4cea-9185-fe1d21125b3d.png)|
-
 
 ## Табличка с номерами типов, их характерные метки и присвоенные им названия
 
