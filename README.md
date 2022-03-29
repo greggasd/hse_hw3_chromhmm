@@ -1,6 +1,6 @@
 # Антонников Григорий, HW3
 
-### Ссылка на Colab: 
+### Ссылка на Colab (основная и бонусная часть): 
 https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sharing
 ### Клеточная линия - HMEC
 
@@ -42,6 +42,28 @@ https://colab.research.google.com/drive/1LcHI94nBqIxKLLA5HAdiYwogVDJDQo8_?usp=sh
 | 9 |![image](https://user-images.githubusercontent.com/93208971/160665167-38154442-6fb7-4cea-9185-fe1d21125b3d.png)|
 
 
-## Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
+## Табличка с номерами типов, их характерные метки и присвоенные им названия
+
+ | State	 | Характерные гистоновые метки | Название эпигенетического типа |
+ | :---: | :---: | :---: | 
+ | 1| H3K4me1 ,H3K4me2, H2AFZ, H3K4me3, H3K9ac, H3K27ac, H3K79me2 |1_Insulator|
+ | 2| H3K4me1, H3K4me2, H2AFZ, H3K4me3, H3K27ac |2_WeekPromoter|
+ | 3| H3K4me1 ,H3K4me2, H2AFZ, H3K9ac, H3K27ac |3_WeekTransckribet|
+ | 4| H3K4me1, H3K4me2, H3K27ac |4_PoisedPromoter|
+ | 5| H3K4me1 ,H3K4me2, H3K4me3, H3K27ac, H3K79me2, H3K36me3 |5_TranskriptionalTransation|
+ | 6| H3K79me2, H3K36me3 |6_TranskriptionalЕlongation|
+ | 7| H3K36me3| 7_ActivePromoter|
+ | 8| H3K9me3 |8_StrongЕnhancer|
+ | 9| - - - |9_PoisedЕnhancer|
+ | 10|  H3K27me3 |10_Heterochromatin/lo|
+ 
+ 
+# Бонусная часть
+Новый файл "Hmec_10_dense_new" в репозитории
+### Результаты на нескольких примерах 
+
+![image](https://user-images.githubusercontent.com/93208971/160693364-dbc54635-4eb0-411f-81ad-fc7eb71a7d06.png)
+![image](https://user-images.githubusercontent.com/93208971/160693458-c71d9b2e-34bf-4bd9-8684-9ed82a7ba591.png)
 
 
+ | :---: | :---: | :---: | 
